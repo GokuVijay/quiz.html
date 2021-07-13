@@ -28,7 +28,7 @@ const quizData = [
         a: "React JS",
         b: "Angular JS",
         c: "Node JS",
-        d: "Angular JS",
+        d: "Backbone JS",
         correct: "c"
     },
     {
